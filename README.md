@@ -1,5 +1,5 @@
-**About**
-This is a HTML and CSS practice repo.
+**About**<br>
+This is a HTML and CSS practice repo.<br>
 ***Pages***
 The first is a simple QR code page <br>
 ![QR Code](./images/image.png)
