@@ -1,4 +1,4 @@
-## Mic check, mic check, is this thing on?
+## 🎙️ Mic check, mic check, is this thing on?
 This repo is a HTML and CSS practice repo. I decided to learn HTML and CSS from scratch 😁 Ask me how it went 😂 
 ### What's in here
 First things first, HTML pages may look simple in design, but wait till you have to design a page from just an image 😢 <br>
